@@ -1,0 +1,7 @@
+C:\Users\FabVR-0\source\repos\FabSerial\FabSerial\bin\FabSerial.dll
+C:\Users\FabVR-0\source\repos\FabSerial\FabSerial\bin\FabSerial.pdb
+C:\Users\FabVR-0\source\repos\FabSerial\FabSerial\obj\Debug\FabSerial.csproj.CoreCompileInputs.cache
+C:\Users\FabVR-0\source\repos\FabSerial\FabSerial\obj\Debug\FabSerial.dll
+C:\Users\FabVR-0\source\repos\FabSerial\FabSerial\obj\Debug\FabSerial.pdb
+C:\Users\FabVR-0\source\repos\FabSerial\FabSerial\obj\Debug\FabSerial.Properties.Resources.resources
+C:\Users\FabVR-0\source\repos\FabSerial\FabSerial\obj\Debug\FabSerial.csproj.GenerateResource.cache
