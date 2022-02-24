@@ -19,7 +19,7 @@ Rhino Grasshopper Plugin for raw Serial data reading
 0. Upload sketch from fab_serial.ino to your Arduino board.
 1. List Serial ports using СMD in Windows: 
    
-    ![Poster](imgs/list_ports.png)
+    ![Poster](imgs/list_ports.PNG)
 
 1. Copy FabSerial.gha to Grasshopper Folders -> Libraries and unlock file.
 2. Restart Rhino and Grassshopper.
